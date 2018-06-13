@@ -1,0 +1,25 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.0.0-alpha.6",
+    "create-react-class": "^15.6.3",
+    "react": "^16.4.0",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.4.0",
+    "react-inline-grid": "^0.5.3",
+    "react-native-video": "^2.2.0",
+    "react-safe-anchor": "^0.1.0",
+    "react-scripts": "1.1.4",
+    "reactstrap": "^6.1.0",
+    "upgrade": "^1.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

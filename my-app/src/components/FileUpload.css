@@ -1,0 +1,10 @@
+.upload {
+  width:295px;
+  margin: 50px auto;
+}
+
+button{
+  border: none;
+  background: Gainsboro ;
+  border-radius : 20px;
+}
