@@ -166,7 +166,7 @@ h1{
 
 .nav-toggle-container{
     width:100%;
-    display: none;  
+    display: none;
     position: absolute;
     z-index: 100;
 }
@@ -519,9 +519,9 @@ input[type="number"]::-webkit-inner-spin-button {
     background-color: #e5e6df;
 }
 
-.flow_bann_area { 
+.flow_bann_area {
     width: 953px;
-    height: 200px;  
+    height: 200px;
     position: absolute;
     top:70px;
     left: 50%;
@@ -529,8 +529,8 @@ input[type="number"]::-webkit-inner-spin-button {
     overflow: hidden;
 }
 
-.flow_bann_area>ol>li>a>img { 
-    height: 200px; 
+.flow_bann_area>ol>li>a>img {
+    height: 200px;
     position: absolute;
     top:0;
     left: 0;
@@ -551,9 +551,9 @@ input[type="number"]::-webkit-inner-spin-button {
     height: 300px;
 }
 
-#eventzone>.flow_bann_area { 
+#eventzone>.flow_bann_area {
     width: 953px;
-    height: 200px;  
+    height: 200px;
     position: absolute;
     top:70px;
     left: 50%;
@@ -571,9 +571,9 @@ input[type="number"]::-webkit-inner-spin-button {
     height: 300px;
 }
 
-#servicezone>.flow_bann_area { 
+#servicezone>.flow_bann_area {
     width: 953px;
-    height: 200px;  
+    height: 200px;
     position: absolute;
     top:70px;
     left: 50%;
@@ -589,7 +589,7 @@ input[type="number"]::-webkit-inner-spin-button {
     align-items: center;
     justify-content: center;
     margin-top:20px;
-    
+
 }
 #news>div>.news{
     border-left: 5px solid gray;
@@ -664,7 +664,6 @@ input[type="number"]::-webkit-inner-spin-button {
     background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
 }
 
-/* Modal Content/Box */
 .modal-content {
     position: relative;
     background-color: #fefefe;
@@ -743,7 +742,7 @@ input[type="number"]::-webkit-inner-spin-button {
 }
 
 .list>ol#area>li.listOn>a{
-    border-left: 5px solid #df2231; 
+    border-left: 5px solid #df2231;
 }
 
 #city{
@@ -783,7 +782,7 @@ footer>div>select{
     border: 1px solid gray;
     border-radius: 3px;
     -webkit-appearance: none;
-    appearance: none;  
+    appearance: none;
     background: url("../images/familysite.png") no-repeat ;
     background-size: 250px 40px;
 }
